@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun hello(){
-        print("Hello world")
+        print("Hello from branch")
     }
 
     fun fromBranch2(){
