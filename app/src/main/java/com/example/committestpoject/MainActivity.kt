@@ -11,4 +11,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun b2(){}
+
+    fun b3(){}
 }
