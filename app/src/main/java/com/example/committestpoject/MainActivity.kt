@@ -8,17 +8,5 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        hello()
     }
-
-    fun hello(){
-        print("Hello from branch")
-    }
-
-    fun fromBranch2(){
-        print("hello")
-    }
-
-    fun masterWasDelete(){}
 }
