@@ -19,4 +19,6 @@ class MainActivity : AppCompatActivity() {
     fun fromBranch2(){
         print("hello")
     }
+
+    fun masterWasDelete(){}
 }
